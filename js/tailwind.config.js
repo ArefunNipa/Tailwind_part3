@@ -15,6 +15,8 @@ tailwind.config = {
         seroverlaycolor:'#6B62C5',
         pricingcolor:'#ECEDF0',
         pricingoverlaycolor:'#6B62C5',
+        starcolor:'#FF7628',
+        footerbgcolor:'#48409C',
       },
 
       maxWidth: {
@@ -22,11 +24,14 @@ tailwind.config = {
         gallerycontainer: '1170px',
         countercontainer: '1209px',
         choosecontainer: '1147px',
+        testimonialcontainer: '1408px',
+        blogcontainer: '982px',
       },
 
       fontFamily: {
         fontfamilyone: ['Open Sans'],
         fontfamilytwo: ['Paprika'],
+        fontfamilythree: ['Nunito'],
       },
 
       backgroundImage: {
